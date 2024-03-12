@@ -1,0 +1,24 @@
+1710218617523:add password
+1710218625194:help
+1710218642381:add-password test
+1710218650940:get-password
+1710218697979:clear
+1710218700252:addPassword --serviceName <service_name> --username <username> --password <password>
+1710218746601:create-passowrd user pwd
+1710218790719:add-password --service <service_name> --username <username> --password <password>
+1710218798550:get-password --service <service_name> --username <username>
+1710218825374:addPassword --serviceName <service_name> --username <username> --password <password>
+1710218866000:createStrongPassword --serviceName=<service_name> --username=<username>
+1710219116173:addPassword --serviceName=<service_name> --username=<username> --password=<password>
+1710219131418:addPassword test test
+1710219145748:help
+1710219206160:create-password test 10
+1710219233052:add-password test test
+1710219245848:get-password test
+1710219271121:create-password --serviceName=test --username=<username> --length=10
+1710219290509:create-password --username=test
+1710219303580:get-password --username=test
+1710223276657:add-password --name=my_username --password=my_password
+1710223282283:get-password --name=my_username
+1710223286050:create-password-with-length --length=12
+1710223289990:create-strong-password
